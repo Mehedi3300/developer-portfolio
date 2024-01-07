@@ -62,6 +62,9 @@ nav a{
     background-image: url("../images/header_bg.png");
     background-repeat: no-repeat;
     background-position: bottom right;
+    max-width: 1600px;
+    max-height: 837px;
+    margin: 0px auto;
 
 }
 .banner{
